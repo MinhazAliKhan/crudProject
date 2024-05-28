@@ -1,0 +1,12 @@
+
+.containermenu{
+    max-width: 140rem;
+    padding: 4rem 2.4rem;
+    margin:0 auto;
+}
+.admin-menu-link{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap:8rem
+}
